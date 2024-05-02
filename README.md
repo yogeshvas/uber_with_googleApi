@@ -15,7 +15,9 @@
 
 
 ## Download
-try apk: https://drive.google.com/drive/folders/177dnC3z1RbiPnZcjmuUFQvoCTDr_n80z?usp=sharing
+try apk: (Will Update)
+
+
 
 ## Run Locally
 Clone the project
