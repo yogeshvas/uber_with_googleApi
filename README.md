@@ -42,3 +42,4 @@ Start the server
 ```bash
   npx expo start
 ```
+don't use googleAPIKey :)
